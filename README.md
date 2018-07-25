@@ -2,7 +2,7 @@
 This application is for limiting the size of a tar archive for spanning data
 directly across multiple Blu-Ray/DVD discs, flash drives or as files on
 online storage with file size limits. It tries to fit as many files as possible
-into tar archive. This application was mainly developed to be used with
+into a tar archive. This application was mainly developed to be used with
 [aes-pipe.py](https://github.com/2sh/aes-pipe.py) for space efficient data
 encryption using pipes to remove the need for temporarily storing the
 potentially large archives and encrypted data.
