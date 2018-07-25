@@ -1,5 +1,5 @@
 # LimitTar
-This application is for limitting the size of a tar archive for spanning data
+This application is for limiting the size of a tar archive for spanning data
 directly across multiple Blu-Ray/DVD discs, flash drives or as files on
 online storage with file size limits. It tries to fit as many files as possible
 into tar archive. This application was mainly developed to be used with
