@@ -352,6 +352,8 @@ def _main():
 		files_out.write(path + delimiter)
 	ltar.stop()
 	files_out.close()
+	print("Filelist written. Determined size: {}".format(ltar.size),
+		file=sys.stderr)
 	files_in.close()
 	ltar.join()
 	if args.tar_out:
