@@ -6,7 +6,7 @@ into a tar archive without creating partial files. This means each tar archive
 can be restored independently without joining.
 
 This application was mainly developed to be used with
-[aes-pipe.py](https://github.com/2sh/aes-pipe.py) for space efficient data
+[aes-pipe](https://github.com/2sh/aes-pipe) for space efficient data
 encryption using pipes to remove the need for temporarily storing the
 potentially large archives and encrypted data.
 
