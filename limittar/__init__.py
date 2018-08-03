@@ -358,4 +358,4 @@ def _main():
 		ltar.close()
 
 if __name__ == "__main__":
-	main()
+	_main()
