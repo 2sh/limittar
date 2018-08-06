@@ -358,6 +358,3 @@ def _main():
 	ltar.join()
 	if args.tar_out:
 		ltar.close()
-
-if __name__ == "__main__":
-	_main()
